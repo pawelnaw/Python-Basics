@@ -15,12 +15,10 @@ print(phrase.islower())
 print(phrase.upper().isupper())
 
 print(len(phrase))
-print(phrase{2})
+print(phrase[2])
 
 print(phrase.index("S"))
 print(phrase.index("i"))
 
 print(phrase)
 print(phrase.replace("variable", "variable_replaced"))
-
-.replace("value", "value")
